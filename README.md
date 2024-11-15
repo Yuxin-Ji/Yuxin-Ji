@@ -1,12 +1,20 @@
-## Hi there 👋
+## Hi there 👋, I'm Yuxin Ji
 
-I'm Yuxin. I am passionate in Data Science / AI / Machine Learning. I am also a linguist. I love semantics. I do a lot of Machine Learning and NLP stuff. 
+Data and Linguistics are my biggest passion. I am a Data Scientist / AI/ML Engineer. I am also a Linguist who love semantics in particular. I do a lot of Machine Learning and NLP stuff. 
+
+### About Me
+- 👩🏻‍💻 I'm a current MLE intern @PROJXON
+- 👩‍🎓 I recently finished my Masters in Computational Social Science @UChicago; B.S in Data Science + Linguistics @Emory
 - 🔭 I’m currently working on Medical Foundation LMMs, AI workflow integrations
-- 🌱 I’m currently learning Google Cloud
+- 🎾 I'm a big sports fan. Passionate in badminton, volleyball, bouldering, pickleball
+- 🎯 I want to bridge my social science insights with my technical knowledge to create innovative and meaningful solutions
 - 💬 Ask me about my favorite brand of coffee ☕ ☕️
 - 📫 How to reach me: ji.yuxin@hotmail.com
-- 😄 Pronouns: She/Her
-- 🎾 Sports I play: badminton, volleyball, bouldering, pickleball
+
+### Skills
+- Python / SQL / R / Java / JS / HTML / CSS
+
+
 
 
 
