@@ -9,6 +9,7 @@ Data and Linguistics are my biggest passion. I am a Data Scientist / AI/ML Engin
 - 🎾 I'm a big sports fan. Passionate in badminton, volleyball, bouldering, pickleball
 - 🎯 I want to bridge my social science insights with my technical knowledge to create innovative and meaningful solutions
 - 💬 Ask me about my favorite brand of coffee ☕ ☕️
+- 👻 My profile pic: I drew it with my mouse for a design your own Pokemon quiz
 - 📫 How to reach me: ji.yuxin@hotmail.com
 
 ### Skills
