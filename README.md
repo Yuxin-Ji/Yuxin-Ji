@@ -3,7 +3,7 @@
 Data and Linguistics are my biggest passion. I am a Data Scientist / AI/ML Engineer. I am also a Linguist who love semantics in particular. I do a lot of Machine Learning and NLP stuff. 
 
 ### About Me
-- 👩🏻‍💻 I'm a current MLE intern @PROJXON
+- 👩🏻‍💻 I'm a current AI/ML Engineer @PROJXON
 - 👩‍🎓 I recently finished my Masters in Computational Social Science @UChicago; B.S in Data Science + Linguistics @Emory
 - 🔭 I’m currently working on Medical Foundation LMMs, AI workflow integrations
 - 🎾 I'm a big sports fan. Passionate in badminton, volleyball, bouldering, pickleball
